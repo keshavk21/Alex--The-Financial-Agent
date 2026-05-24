@@ -201,7 +201,6 @@ cython_debug/
 # Educational materials
 AGENTS.md
 CLAUDE.md
-gameplan.md
 guides/
 
 # PyPI configuration file
